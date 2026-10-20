@@ -199,3 +199,4 @@
 - [sso 单点登录简易模拟开源仓库 完整源码单点登录流程演示](https://github.com/annamooregithtb/nTybPh/commit/896c525eb73d70065c46bc630e62c7752a112822)
 - [边缘联邦微调，边缘节点模型更新不回传原始数据](https://github.com/annamooregithtb/nTybPh/commit/7f6ff632f56297b7f0406a997137546186b58186)
 - [青年创业的门槛依旧偏高，创业失败的风险不小](https://github.com/annamooregithtb/nTybPh/commit/5c9919e1b73c2cfb007574c0acc03278e4a4ede9)
+- [QUIC协议大规模落地，UDP网络环境兼容性问题](https://github.com/annamooregithtb/nTybPh/commit/982cb10e3674a12c7ed138928a615b0e98307131)
