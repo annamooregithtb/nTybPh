@@ -95,3 +95,4 @@
 - [产业转移过程中，转出地与承接地利益如何协调](https://github.com/annamooregithtb/nTybPh/commit/354a18ebf1c5c0893bed2ec3a4f2e1dc2f8e6512)
 - [机构抱团疯狂拉升，瓦解之后散户来兜底](https://github.com/annamooregithtb/nTybPh/commit/7cad671b219b01b70cd305851b83bc18833b609c)
 - [智慧社区算法治理，小区人脸识别隐私争议](https://github.com/annamooregithtb/nTybPh/commit/423ceda68c9334421730682a1f423bd179ecb00b)
+- [小盘股估值回归理性题材炒作退潮之后价值投资重新回归](https://github.com/annamooregithtb/nTybPh/commit/3a3d2fabfcdd0af001f6af9d81715bce6b116293)
