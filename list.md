@@ -163,3 +163,4 @@
 - [个人破产制度完善，普通负债群体债务解脱](https://github.com/annamooregithtb/nTybPh/commit/9db00345f5b740992ebea1b220cdfa96148262f7)
 - [农村快递进村可持续运营模式](https://github.com/annamooregithtb/nTybPh/commit/537d0dc389608eb08a02f98d381385daa27fc524)
 - [大模型蒸馏与模型压缩，精度损失权衡实战](https://github.com/annamooregithtb/nTybPh/commit/15c60a397c044dfdee81c5f9b3e6e6db33093bd1)
+- [企业内部fork堆积自定义补丁，上游升级成本爆炸](https://github.com/annamooregithtb/nTybPh/commit/4be541160517e25477a83aa2399c56a68c1b96f2)
