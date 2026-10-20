@@ -112,3 +112,4 @@
 - [算力能耗压力凸显高耗能AI产业如何实现绿色发展](https://github.com/annamooregithtb/nTybPh/commit/f9017eea7701d4934b4a0a8a6d8c9633a9a7d8e4)
 - [文本段落分割重组工具，长文档切分合并重组文本内容](https://github.com/annamooregithtb/nTybPh/commit/cd6168edc4ac55b78b8937bc770ac8677215cca0)
 - [乡村文旅深度开发，同质化建设如何破局](https://github.com/annamooregithtb/nTybPh/commit/b8c96403689506037d330c8ca309e079b9eeb8b6)
+- [闲置GPU、闲置存储，云资源僵尸资源清理手段](https://github.com/annamooregithtb/nTybPh/commit/b4b358ce3f09f72714cd3f357079d9e057895dac)
