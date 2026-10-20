@@ -89,3 +89,4 @@
 - [商用车后市场崛起重卡客车维保配件赛道机会解析](https://github.com/annamooregithtb/nTybPh/commit/0eb52b95f71af0266d7cdb9762d896280b07ffef)
 - [树结构组装遍历开源源码 完整源码树形上下级数据处理](https://github.com/annamooregithtb/nTybPh/commit/88326d34bcd6e9df73eb22cdfff0babaf9bf3b02)
 - [公交地铁适老化改造落地情况](https://github.com/annamooregithtb/nTybPh/commit/adb4529ea615ded9af7b9bd86fae8dd4b11442da)
+- [Stale‑bot自动关闭Issue，用户问题没有解决](https://github.com/annamooregithtb/nTybPh/commit/aae79355ae43139b1a62181f1231a30933cdc0f7)
