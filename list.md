@@ -184,3 +184,4 @@
 - [家庭资产风险科普，普通家庭防资产缩水](https://github.com/annamooregithtb/nTybPh/commit/6404d0e9210b5036647c8e6e5dd5c59c08668da4)
 - [居民储蓄走高，背后多重现实顾虑](https://github.com/annamooregithtb/nTybPh/commit/402100846f33aa9f09e8fd4dba3a8d845b443d98)
 - [出口产品质量升级中国制造向中国智造转型进程观察](https://github.com/annamooregithtb/nTybPh/commit/30332fb6b53cdc539ed3115711388f1867ca544a)
+- [GitHub仓库分支保护配置批量迁移工具](https://github.com/annamooregithtb/nTybPh/commit/af3012c74d995a439c1de5ff471e765aca74e648)
