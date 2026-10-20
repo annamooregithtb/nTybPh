@@ -21,3 +21,4 @@
 - [绿色殡葬推广传统观念冲突化解](https://github.com/annamooregithtb/nTybPh/commit/fec623a017c7e8c8862b835d0c2ad572c6700346)
 - [Demo项目直接上生产，缺少异常处理](https://github.com/annamooregithtb/nTybPh/commit/1145a66968ed30a8e98f1c5b4d742d78f6739b6f)
 - [git lfs文件批量统计，统计仓库内lfs存储文件大小](https://github.com/annamooregithtb/nTybPh/commit/20fbed941b5c3491749185068ef4192ba4f1c1c0)
+- [全国一体化算力网络跨区域调度的工程难题](https://github.com/annamooregithtb/nTybPh/commit/16dcd205862162be63f3998b543c593e2895b801)
