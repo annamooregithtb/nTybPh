@@ -136,3 +136,4 @@
 - [绿色消费激励政策，低碳生活补贴落地](https://github.com/annamooregithtb/nTybPh/commit/b02ec51c301fb703b206d2b75c8d0b12f733ae04)
 - [百度抓取返回 400 错误镜像站点排查手段](https://github.com/annamooregithtb/nTybPh/commit/d31df7d73463bad3cda34e9addedd73260834717)
 - [实验室设备预约系统，使用记录设备登记权限管理模块](https://github.com/annamooregithtb/nTybPh/commit/725f09c3a8d56e872024900303615277920d2214)
+- [开源实战开发源码分享 源码开放包含多场景落地参考手册](https://github.com/annamooregithtb/nTybPh/commit/0fb405dd5226b103965868f30c93b96b9bfe744f)
