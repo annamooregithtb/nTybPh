@@ -99,3 +99,4 @@
 - [kafka批量查找无效offset，批量查找topic无效越界offset值](https://github.com/annamooregithtb/nTybPh/commit/6afa7435527b21a681da3c877413f366827a3993)
 - [图片压缩裁剪开源 Demo 完整源码实现图片缩放裁剪处理](https://github.com/annamooregithtb/nTybPh/commit/0438c7e73489b37df0a8487cc84a73cf3871af73)
 - [罕见病慈善救助渠道普及难点](https://github.com/annamooregithtb/nTybPh/commit/2e921f0a51069b9ea5e1f5143de99bb4463f9dfa)
+- [AI生成开源项目，大量文档注释全部机器生成](https://github.com/annamooregithtb/nTybPh/commit/8211d4cdd41713905c08c30f64f7720d766360a6)
