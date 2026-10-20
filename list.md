@@ -92,3 +92,4 @@
 - [Stale‑bot自动关闭Issue，用户问题没有解决](https://github.com/annamooregithtb/nTybPh/commit/aae79355ae43139b1a62181f1231a30933cdc0f7)
 - [极简生活流行现实落地存在哪些阻碍](https://github.com/annamooregithtb/nTybPh/commit/2a38a4e95ca521c82b85c40ae66f74f63a6bcd45)
 - [南美东南亚新兴市场国内出口企业布局新蓝海市场](https://github.com/annamooregithtb/nTybPh/commit/86ba2f6774186b05a2283bc2a07733d1b8ba3f6a)
+- [产业转移过程中，转出地与承接地利益如何协调](https://github.com/annamooregithtb/nTybPh/commit/354a18ebf1c5c0893bed2ec3a4f2e1dc2f8e6512)
