@@ -100,3 +100,4 @@
 - [图片压缩裁剪开源 Demo 完整源码实现图片缩放裁剪处理](https://github.com/annamooregithtb/nTybPh/commit/0438c7e73489b37df0a8487cc84a73cf3871af73)
 - [罕见病慈善救助渠道普及难点](https://github.com/annamooregithtb/nTybPh/commit/2e921f0a51069b9ea5e1f5143de99bb4463f9dfa)
 - [AI生成开源项目，大量文档注释全部机器生成](https://github.com/annamooregithtb/nTybPh/commit/8211d4cdd41713905c08c30f64f7720d766360a6)
+- [github fork仓库pr上游提交比对，比对fork提交哪些已经合入上游](https://github.com/annamooregithtb/nTybPh/commit/134e3254b7cfa6e438a239ecd6ebceb1e54bf12f)
