@@ -58,3 +58,4 @@
 - [扩大内需，不只是刺激消费，更要提升居民收入](https://github.com/annamooregithtb/nTybPh/commit/641243d2f7b39278a0ccd6dd6f1e65800c4b2c4f)
 - [模型A/B测试流量切分，多模型并行对比方案](https://github.com/annamooregithtb/nTybPh/commit/94bf32b1de84a7e5da081b169bfef1087f5d275e)
 - [婚恋服务规范化整治，婚恋平台套路乱象治理](https://github.com/annamooregithtb/nTybPh/commit/696b5d5e159e173433950b2e5643b57fb1bf6268)
+- [高质量 GitHub 实战项目 源码开放附带调试排错文档](https://github.com/annamooregithtb/nTybPh/commit/c344aee0a3e82cb95a52087b633b1313d9658f22)
