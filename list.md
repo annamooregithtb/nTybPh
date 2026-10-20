@@ -33,3 +33,4 @@
 - [后量子密钥替换全链路，存量AI服务改造成本](https://github.com/annamooregithtb/nTybPh/commit/966fcf7bff2461d2b2dde5e9340f3853eafc418a)
 - [环保危废处置产能出清行业逐步摆脱低价恶性竞争](https://github.com/annamooregithtb/nTybPh/commit/429fa0964728694e46781fa5734d5d305348a36f)
 - [高标准农田管护资金来源现实困境](https://github.com/annamooregithtb/nTybPh/commit/43b59015a2d4144b3ee3834487b047cbebdbc006)
+- [低空经济运营牌照发放商业化落地迈出关键一步](https://github.com/annamooregithtb/nTybPh/commit/23f68003a84877d0f7f7daa5e63985b8695feb7c)
