@@ -121,3 +121,4 @@
 - [地缘冲突扰动大宗商品价格，间接传导国内市场](https://github.com/annamooregithtb/nTybPh/commit/1400257b98bff3f8c3dd326e720a31aa250e3103)
 - [企业弹性福利普及，传统五险一金模式迭代](https://github.com/annamooregithtb/nTybPh/commit/bdbf3193aa9db1d0aec143d9b30baf6f520fb209)
 - [图片隐写水印工具，文字图片信息隐藏嵌入提取本地实现](https://github.com/annamooregithtb/nTybPh/commit/e4bf6dc803d50c72d9aea69e9121864d90449d3c)
+- [实时数字人直播唇形表情同步，高并发调优](https://github.com/annamooregithtb/nTybPh/commit/7b370eca35c29cf6cfd7563e944e7ea898d7e89b)
