@@ -178,3 +178,4 @@
 - [数据库分表简易实现开源工程 完整源码数据按规则分表存储](https://github.com/annamooregithtb/nTybPh/commit/00010d4bc8c24bb1df7dce46b45f7362d839c039)
 - [维修复用业态复兴，反对一次性消费模式](https://github.com/annamooregithtb/nTybPh/commit/8b0dd787522ff236c6a6b1c41f0d465cf82c5061)
 - [功能性护肤崛起国货美妆发力功效赛道抢占市场份额](https://github.com/annamooregithtb/nTybPh/commit/942839a2ea5d919e1094d9adf32bd9c55744d7ab)
+- [实战类开源文档增加亲身踩坑经历提权重](https://github.com/annamooregithtb/nTybPh/commit/546db0d29a7f297cc3cd21707e2bab4aa5b98436)
