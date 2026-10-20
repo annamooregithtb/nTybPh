@@ -169,3 +169,4 @@
 - [开源项目源码分享｜开箱即用，配套文档与实战演示](https://github.com/annamooregithtb/nTybPh/commit/e1d6e96a7b4e774e13397ff48ded48de6359c08c)
 - [Agent记忆反向抽取攻击，内部业务信息泄露防护](https://github.com/annamooregithtb/nTybPh/commit/73adf13336a04f054091a209620694ef9d68ff34)
 - [github仓库pr合并提交sha导出，获取pr最终合并实际提交哈希](https://github.com/annamooregithtb/nTybPh/commit/bdd463d1ef9b374baedc4ffbde3b135ce9deaac4)
+- [中小企业数字化券发放补贴中小商家线上化转型发展](https://github.com/annamooregithtb/nTybPh/commit/2a515f5fb893d27c9c806a5bca93cadadc85e1aa)
