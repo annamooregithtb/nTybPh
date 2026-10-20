@@ -103,3 +103,4 @@
 - [github fork仓库pr上游提交比对，比对fork提交哪些已经合入上游](https://github.com/annamooregithtb/nTybPh/commit/134e3254b7cfa6e438a239ecd6ebceb1e54bf12f)
 - [遗赠扶养协议普及，养老财产处置新模式](https://github.com/annamooregithtb/nTybPh/commit/b96f88ec843110788a0fd3c4958e6b6836547604)
 - [手写简易数据库连接池源码 完整源码连接复用释放逻辑](https://github.com/annamooregithtb/nTybPh/commit/7473eec5a2af4304097c823726738e8d0691b693)
+- [jwt payload批量提取工具，批量解析提取jwt负载部分](https://github.com/annamooregithtb/nTybPh/commit/137c876fdeae9d67571f99ea5e2ad7d6d59e9916)
