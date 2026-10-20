@@ -28,3 +28,4 @@
 - [GitHub仓库PR模板跨仓库同步脚本](https://github.com/annamooregithtb/nTybPh/commit/deb6119ada984513c7f3bed583e1a7390679ebd2)
 - [向量数据库索引选型，HNSW调优内存权衡](https://github.com/annamooregithtb/nTybPh/commit/ad19eaf083e6504c22cbda2a9a2a3e009faed693)
 - [低度酒赛道洗牌网红酒类品牌面临市场出清压力](https://github.com/annamooregithtb/nTybPh/commit/e80f9a346581dba53975729135367435cbd2576a)
+- [折叠屏手机渗透率持续提升折叠终端产业链成长机会梳理](https://github.com/annamooregithtb/nTybPh/commit/1ede10a47d7602c03de9277630d5ea4361c51fd6)
