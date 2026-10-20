@@ -86,3 +86,4 @@
 - [到处传授理财经验，散户依旧很难跑赢市场](https://github.com/annamooregithtb/nTybPh/commit/c3dc1966de942d2b2baa2e4d6128c947dfedebb8)
 - [校园旧物捐赠登记系统，领取入库记录统计导出](https://github.com/annamooregithtb/nTybPh/commit/c120fa6fc98d3946bda789bbe0f7165a0ba966d1)
 - [照搬网上资产配置方案，越调仓位亏得越重](https://github.com/annamooregithtb/nTybPh/commit/d50e29afa06363b5839512f1055d9fdd9e7a87fe)
+- [商用车后市场崛起重卡客车维保配件赛道机会解析](https://github.com/annamooregithtb/nTybPh/commit/0eb52b95f71af0266d7cdb9762d896280b07ffef)
