@@ -167,3 +167,4 @@
 - [固态电池商业化，未来用车成本变化](https://github.com/annamooregithtb/nTybPh/commit/6dd17fe5cfc054c12bcb6f0e5598506412bc3525)
 - [硬链接文件统计汇总工具，统计目录硬链接数量与关联文件](https://github.com/annamooregithtb/nTybPh/commit/80b0ea41154559f1dd8399111a37af7431cf795a)
 - [开源项目源码分享｜开箱即用，配套文档与实战演示](https://github.com/annamooregithtb/nTybPh/commit/e1d6e96a7b4e774e13397ff48ded48de6359c08c)
+- [Agent记忆反向抽取攻击，内部业务信息泄露防护](https://github.com/annamooregithtb/nTybPh/commit/73adf13336a04f054091a209620694ef9d68ff34)
