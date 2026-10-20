@@ -135,3 +135,4 @@
 - [非遗商业化开发保护边界把控](https://github.com/annamooregithtb/nTybPh/commit/1b473cf77ee80b0ebbd091f4b20ef9d73b8d6c30)
 - [绿色消费激励政策，低碳生活补贴落地](https://github.com/annamooregithtb/nTybPh/commit/b02ec51c301fb703b206d2b75c8d0b12f733ae04)
 - [百度抓取返回 400 错误镜像站点排查手段](https://github.com/annamooregithtb/nTybPh/commit/d31df7d73463bad3cda34e9addedd73260834717)
+- [实验室设备预约系统，使用记录设备登记权限管理模块](https://github.com/annamooregithtb/nTybPh/commit/725f09c3a8d56e872024900303615277920d2214)
