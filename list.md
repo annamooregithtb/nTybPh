@@ -148,3 +148,4 @@
 - [json数组内对象排序工具，按指定字段对json数组对象排序](https://github.com/annamooregithtb/nTybPh/commit/8844a0b0f7eb97b2996b16af10be4586904bada1)
 - [简单熔断降级 Demo 完整源码服务故障降级返回兜底数据](https://github.com/annamooregithtb/nTybPh/commit/bada8b66ba4a4a82be55dab6ff5ba249bfc61708)
 - [空天地海一体化网络，卫星‑地面网络协同故障](https://github.com/annamooregithtb/nTybPh/commit/76ee5217a4dd394bb6771488cdc36c2b198a9937)
+- [虚拟电厂热度高涨，落地难题远超想象](https://github.com/annamooregithtb/nTybPh/commit/245bca6010bd934121cc9061c56440be5552acfd)
