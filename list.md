@@ -117,3 +117,4 @@
 - [机构扎堆调研上市公司，不代表股价即将大涨](https://github.com/annamooregithtb/nTybPh/commit/3c4315c3c386ecf95974c091a027bd59c5bd3411)
 - [PPI出现修复迹象，不要妄下经济拐点定论](https://github.com/annamooregithtb/nTybPh/commit/9b277c0d42b92700b90d0b156c588efebdfb732a)
 - [AI工作流编排，复杂业务多步骤智能流稳定性](https://github.com/annamooregithtb/nTybPh/commit/d90897fb20def46e0681dca9f05666c37d84f287)
+- [开源教程文档环境准备步骤写在文档最前面](https://github.com/annamooregithtb/nTybPh/commit/45a4648204a08e0380743f00475b53c75408d04d)
