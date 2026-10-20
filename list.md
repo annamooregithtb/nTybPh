@@ -73,3 +73,4 @@
 - [真实场景练手开源工程 完整源码附带完整的踩坑记录](https://github.com/annamooregithtb/nTybPh/commit/993d4a6b549f05976105b5b29fd7b837939862dc)
 - [买了号称稳健的理财，为什么照样出现亏损](https://github.com/annamooregithtb/nTybPh/commit/fefd7303540f97fd2e17ad949f1ccc846012dbf5)
 - [github pr冲突文件批量检测，预检测pr存在冲突的文件清单](https://github.com/annamooregithtb/nTybPh/commit/c1709f4962d6f985a78c8b76d09ecdef6ddda0dd)
+- [简易消息推送开源 Demo 完整源码实现多渠道消息发送](https://github.com/annamooregithtb/nTybPh/commit/7f7e2d797bece0f60565daa94626af43ef3e0580)
