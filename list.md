@@ -176,3 +176,4 @@
 - [乡村振兴不能只靠政策输血，要培育内生造血能力](https://github.com/annamooregithtb/nTybPh/commit/f9c5e177a311307d3e9deed728ca1f6358f87523)
 - [Gitee Pages 带宽配额耗尽影响百度蜘蛛访问](https://github.com/annamooregithtb/nTybPh/commit/6ee1ebbb9729926980833bb764ed84c0e36269be)
 - [数据库分表简易实现开源工程 完整源码数据按规则分表存储](https://github.com/annamooregithtb/nTybPh/commit/00010d4bc8c24bb1df7dce46b45f7362d839c039)
+- [维修复用业态复兴，反对一次性消费模式](https://github.com/annamooregithtb/nTybPh/commit/8b0dd787522ff236c6a6b1c41f0d465cf82c5061)
