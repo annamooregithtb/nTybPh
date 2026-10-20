@@ -189,3 +189,4 @@
 - [socks 简易代理实现开源工程 完整源码 socks 代理中转逻辑](https://github.com/annamooregithtb/nTybPh/commit/82598add3043c22ed6a0567d50246e2e575bfbb3)
 - [Gitee 绑定域名后百度搜索资源平台添加](https://github.com/annamooregithtb/nTybPh/commit/27205f097a6679a5cb47008d5619ca825be30f59)
 - [可扩展开源工具源码库 全套源码附上手实战案例](https://github.com/annamooregithtb/nTybPh/commit/b665bb3d8671ed5418494f19eba827fab6f22b7a)
+- [漏洞赏金Bounty，普通开源项目落地可行性](https://github.com/annamooregithtb/nTybPh/commit/c4e9e4f6913bf7f92b3116a54f6aaac913d472a5)
