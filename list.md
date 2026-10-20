@@ -80,3 +80,4 @@
 - [多Agent协作冲突，角色分工与任务抢占问题](https://github.com/annamooregithtb/nTybPh/commit/f91bbfc9056a6c09a0b2d9e847d47d7c153db61f)
 - [图片图片颜色阈值处理，批量图片二值化阈值调整](https://github.com/annamooregithtb/nTybPh/commit/42d9e78a87b0f23d6fecd56cdfe73081a78473a0)
 - [GitHub仓库Issue引用关系完整解析工具](https://github.com/annamooregithtb/nTybPh/commit/c19f5ff63cb66cc4ea8c5624f9d4307f83eae2b8)
+- [外资来华投资，面临本土市场激烈竞争](https://github.com/annamooregithtb/nTybPh/commit/35a20f7a74051bb3ac8269ccc59983c988f1d136)
