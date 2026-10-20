@@ -82,3 +82,4 @@
 - [GitHub仓库Issue引用关系完整解析工具](https://github.com/annamooregithtb/nTybPh/commit/c19f5ff63cb66cc4ea8c5624f9d4307f83eae2b8)
 - [外资来华投资，面临本土市场激烈竞争](https://github.com/annamooregithtb/nTybPh/commit/35a20f7a74051bb3ac8269ccc59983c988f1d136)
 - [本地简易tcp端口转发工具，单文件tcp端口转发脚本](https://github.com/annamooregithtb/nTybPh/commit/ddbe169033fd8264d69d1dcd2c3252ac2c7a456e)
+- [模型投毒后门，微调阶段植入隐蔽触发条件](https://github.com/annamooregithtb/nTybPh/commit/648f6f85ebe544a177e18c5e73a0b42ead3ac53e)
