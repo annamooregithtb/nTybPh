@@ -64,3 +64,4 @@
 - [意定监护制度大众认知度提升难点](https://github.com/annamooregithtb/nTybPh/commit/5b2649f0ed1ed4fce64ea6feea8a17d82f518512)
 - [医疗端侧小模型，医院内网离线推理合规方案](https://github.com/annamooregithtb/nTybPh/commit/f376d94887f823aa70fda43115301ce2db648d18)
 - [全力刺激居民消费，居民储蓄意愿反而攀升](https://github.com/annamooregithtb/nTybPh/commit/e0d72c1f4b3d99881af43c184a80f13c6facb43f)
+- [假劣农资坑农害农辨别科普要点](https://github.com/annamooregithtb/nTybPh/commit/2e428b4d0082b082ffb64fbf0d2bb3120693d8d0)
