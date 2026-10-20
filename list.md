@@ -187,3 +187,4 @@
 - [GitHub仓库分支保护配置批量迁移工具](https://github.com/annamooregithtb/nTybPh/commit/af3012c74d995a439c1de5ff471e765aca74e648)
 - [一心想着理财快速暴富，亏损大多源于太急躁](https://github.com/annamooregithtb/nTybPh/commit/2516d45668a8b1a1a8776133722ce0f85d6847a8)
 - [socks 简易代理实现开源工程 完整源码 socks 代理中转逻辑](https://github.com/annamooregithtb/nTybPh/commit/82598add3043c22ed6a0567d50246e2e575bfbb3)
+- [Gitee 绑定域名后百度搜索资源平台添加](https://github.com/annamooregithtb/nTybPh/commit/27205f097a6679a5cb47008d5619ca825be30f59)
