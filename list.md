@@ -50,3 +50,4 @@
 - [中文歇后语谚语工具库，检索匹配语句生成工具代码](https://github.com/annamooregithtb/nTybPh/commit/9b104e6ba9ae1c467c42690769994942a20e84ea)
 - [github pr变更文件代码行数统计，统计pr新增删除修改代码行数](https://github.com/annamooregithtb/nTybPh/commit/f0bb503d99562073557d3f91eb3d6f0e1b0f4f0d)
 - [食品溯源系统为何难以全面普及](https://github.com/annamooregithtb/nTybPh/commit/bec895ad078e584861da91089f375b7af22f7cdb)
+- [模块化脚本开源项目 快速上手配置与模拟业务样例](https://github.com/annamooregithtb/nTybPh/commit/3f96b101bbb8905454972cc824f39324c8c3b736)
