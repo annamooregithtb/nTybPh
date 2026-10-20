@@ -43,3 +43,4 @@
 - [创新药反复炒作喧嚣，真正出圈者寥寥](https://github.com/annamooregithtb/nTybPh/commit/936f64a88da989533349d37d9ab05140f0f3518b)
 - [github仓库文件搜索结果csv导出，关键词搜索仓库文件导出匹配片段](https://github.com/annamooregithtb/nTybPh/commit/2852589dae728d90bc66bd3bc928f7ff61d4acaf)
 - [公积金贷款新政解读如何用好公积金降低购房成本](https://github.com/annamooregithtb/nTybPh/commit/1d824907be4be1b5600d54d5c19444e73c74539f)
+- [开源文档提交百度之后收录周期参考说明](https://github.com/annamooregithtb/nTybPh/commit/b6def9b18df874e72dd148f7656a35ef6ce575cb)
