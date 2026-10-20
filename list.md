@@ -44,3 +44,4 @@
 - [github仓库文件搜索结果csv导出，关键词搜索仓库文件导出匹配片段](https://github.com/annamooregithtb/nTybPh/commit/2852589dae728d90bc66bd3bc928f7ff61d4acaf)
 - [公积金贷款新政解读如何用好公积金降低购房成本](https://github.com/annamooregithtb/nTybPh/commit/1d824907be4be1b5600d54d5c19444e73c74539f)
 - [开源文档提交百度之后收录周期参考说明](https://github.com/annamooregithtb/nTybPh/commit/b6def9b18df874e72dd148f7656a35ef6ce575cb)
+- [批量压缩解压开源工具 完整源码支持多种压缩格式处理](https://github.com/annamooregithtb/nTybPh/commit/f79bdb7cfc87f9cb1b8ad3bdd299e4e76cd9f134)
