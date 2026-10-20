@@ -40,3 +40,4 @@
 - [开源踩坑合集文档 GitHub 发布搜索流量思路](https://github.com/annamooregithtb/nTybPh/commit/72c2b2ac9f4903b36e0ddc7bf91b938429eb9c8d)
 - [国产短剧出海文化输出现实挑战](https://github.com/annamooregithtb/nTybPh/commit/f94310dec6247de240f70e8f7e68e2acda9534b8)
 - [多模态对抗样本，图片音频诱导模型执行高危动作](https://github.com/annamooregithtb/nTybPh/commit/88538965cb234c9924e1e666a770667d08f3939b)
+- [创新药反复炒作喧嚣，真正出圈者寥寥](https://github.com/annamooregithtb/nTybPh/commit/936f64a88da989533349d37d9ab05140f0f3518b)
