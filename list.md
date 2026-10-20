@@ -129,3 +129,4 @@
 - [部分新兴产业，短期热度高，长期盈利模式尚待验证](https://github.com/annamooregithtb/nTybPh/commit/55e1ed8d0047f8f6956a04000ea93ce4c27e867c)
 - [AI安全测评体系建立生成式AI企业合规成本上升](https://github.com/annamooregithtb/nTybPh/commit/d00ed0cb4b1d58c815ef98100729bbb5308f2d67)
 - [AI生成IaC配置，逻辑漏洞自动扫描检测手段](https://github.com/annamooregithtb/nTybPh/commit/90203e5ae6ef46908d7ea0f5c3786e7c41317197)
+- [残疾人两项补贴申领条件困难残疾人可以享受什么](https://github.com/annamooregithtb/nTybPh/commit/ce16b2360d83af0acb31d11fadcae54c99a601fa)
