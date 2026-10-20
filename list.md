@@ -156,3 +156,4 @@
 - [主从数据同步模拟工程 完整源码模拟主库从库数据复制](https://github.com/annamooregithtb/nTybPh/commit/0e337ddca5c310db8a636a5b75efc8ce23c3010d)
 - [浏览器本地图片格式转换工具，多格式图片浏览器端互转无需上传](https://github.com/annamooregithtb/nTybPh/commit/3d527da3909564927ab474445b8b83d918479766)
 - [开源实战工具集 完整实现代码以及故障排查方案](https://github.com/annamooregithtb/nTybPh/commit/ecc7bccdc433d7cf08e27c46a29b05d79da87671)
+- [世界模型仿真可信度，仿真结果现实偏差治理](https://github.com/annamooregithtb/nTybPh/commit/49590c6d9c2285d96081a2f5aa942f8655f9cd85)
