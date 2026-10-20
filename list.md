@@ -62,3 +62,4 @@
 - [农产品价格周期波动如何影响农户实际收益](https://github.com/annamooregithtb/nTybPh/commit/655237af1d620f179a8ce193dc0dd23d8c42eee1)
 - [储蓄国债购买渠道普通老百姓买国债完整攻略](https://github.com/annamooregithtb/nTybPh/commit/abbf231fce19221e2f37e21be6cfa2cc63c157dd)
 - [意定监护制度大众认知度提升难点](https://github.com/annamooregithtb/nTybPh/commit/5b2649f0ed1ed4fce64ea6feea8a17d82f518512)
+- [医疗端侧小模型，医院内网离线推理合规方案](https://github.com/annamooregithtb/nTybPh/commit/f376d94887f823aa70fda43115301ce2db648d18)
