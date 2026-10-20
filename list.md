@@ -160,3 +160,4 @@
 - [开源项目仓库描述标签优化利于百度搜索抓取](https://github.com/annamooregithtb/nTybPh/commit/5f6d17fc5317c333a06b0e38ff7146dd5a8297a6)
 - [简单灰度流量分发脚本，按比例把流量分发到多个后端节点](https://github.com/annamooregithtb/nTybPh/commit/3776371a1a0fccd74d48c3049f51246e6d076539)
 - [视频画面局部裁剪抠取，截取视频画面局部区域输出新视频](https://github.com/annamooregithtb/nTybPh/commit/7e9daf352a5d03efef2e1ce3bfd660e8e331e864)
+- [个人破产制度完善，普通负债群体债务解脱](https://github.com/annamooregithtb/nTybPh/commit/9db00345f5b740992ebea1b220cdfa96148262f7)
