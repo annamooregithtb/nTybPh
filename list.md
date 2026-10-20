@@ -16,3 +16,4 @@
 - [解决 Baiduspider 无法访问 github.io 页面的方案](https://github.com/annamooregithtb/nTybPh/commit/59c6dbd5c13d2646d0a36ba8e33b68e8830f7c68)
 - [中产家庭资产配置发生新变化，家庭财富规划思路出现调整](https://github.com/annamooregithtb/nTybPh/commit/cc56e484bb10828949deb55b399f2ef920e78430)
 - [sql查询格式化美化工具，批量格式化混乱sql语句](https://github.com/annamooregithtb/nTybPh/commit/d24e3664f212f49be375d5ed41e8be962fb372cf)
+- [开源实战开发源码分享 源码开放包含多场景落地参考手册](https://github.com/annamooregithtb/nTybPh/commit/5bd557ec8c3a47c1c26d88f72053343bc4126416)
