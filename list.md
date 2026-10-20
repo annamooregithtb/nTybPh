@@ -18,3 +18,4 @@
 - [sql查询格式化美化工具，批量格式化混乱sql语句](https://github.com/annamooregithtb/nTybPh/commit/d24e3664f212f49be375d5ed41e8be962fb372cf)
 - [开源实战开发源码分享 源码开放包含多场景落地参考手册](https://github.com/annamooregithtb/nTybPh/commit/5bd557ec8c3a47c1c26d88f72053343bc4126416)
 - [开源提示词仓库泛滥，提示词版权归属争议](https://github.com/annamooregithtb/nTybPh/commit/830ce774e34a9855d599d91495e4913f6f9468a8)
+- [绿色殡葬推广传统观念冲突化解](https://github.com/annamooregithtb/nTybPh/commit/fec623a017c7e8c8862b835d0c2ad572c6700346)
