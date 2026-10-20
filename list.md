@@ -171,3 +171,4 @@
 - [github仓库pr合并提交sha导出，获取pr最终合并实际提交哈希](https://github.com/annamooregithtb/nTybPh/commit/bdd463d1ef9b374baedc4ffbde3b135ce9deaac4)
 - [中小企业数字化券发放补贴中小商家线上化转型发展](https://github.com/annamooregithtb/nTybPh/commit/2a515f5fb893d27c9c806a5bca93cadadc85e1aa)
 - [jwk密钥集导出导入工具，jwk与pem密钥格式批量互转](https://github.com/annamooregithtb/nTybPh/commit/7413ef9ff348a413b02c36b3e79cb71059c540b4)
+- [煤炭清洁化转型传统能源企业绿色发展机遇研判](https://github.com/annamooregithtb/nTybPh/commit/614c62aa3d8bf3c29c17c55cd249d32347b4756b)
