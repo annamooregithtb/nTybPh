@@ -54,3 +54,4 @@
 - [markdown思维导图生成，从md标题自动生成思维导图](https://github.com/annamooregithtb/nTybPh/commit/4bec82855862f53e7a55e5953973c88c0caf7733)
 - [控制台彩色表格输出开源 Demo 完整源码美化终端打印效果](https://github.com/annamooregithtb/nTybPh/commit/6d0485a1a61074bbd4d43e926e05b0f2966a9e81)
 - [静态镜像站点爬虫 UA 识别调试排查抓取问题](https://github.com/annamooregithtb/nTybPh/commit/415a97044a2f8281720a4c3649f2a2e8a638636b)
+- [Gitee Pages 站点不要把构建产物提交代码库](https://github.com/annamooregithtb/nTybPh/commit/3d3c99f812bb54f60089d290e25d4dae6cbcd5b9)
