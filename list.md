@@ -196,3 +196,4 @@
 - [新业态劳动者职工医保参保激励](https://github.com/annamooregithtb/nTybPh/commit/bef176ba0917c6880cddbe8e92733b4ddc4c02ec)
 - [静态博客源码 GitHub 托管镜像部署踩坑汇总](https://github.com/annamooregithtb/nTybPh/commit/d3911e22520d327117801d6a666b83e911fe9cca)
 - [usb设备流量监控脚本，监控usb设备读写流量统计报表](https://github.com/annamooregithtb/nTybPh/commit/232681c26552b4dd6ac099172b949888f231bc08)
+- [sso 单点登录简易模拟开源仓库 完整源码单点登录流程演示](https://github.com/annamooregithtb/nTybPh/commit/896c525eb73d70065c46bc630e62c7752a112822)
