@@ -10,3 +10,4 @@
 - [GitHub 演示类开源源码库 示例项目配套不同系统适配文档](https://github.com/annamooregithtb/nTybPh/commit/c25bcd0e2beb823d647c1100e6bcc629f03a53c7)
 - [跨平台消息队列工具开源组件 源码资源含多环境测试演示工程](https://github.com/annamooregithtb/nTybPh/commit/8c9e3a94ba9ffc53f7cac48b5dd1ade064b6e37d)
 - [文件权限审计工具，扫描目录找出权限过高风险文件](https://github.com/annamooregithtb/nTybPh/commit/c66a88651deabff55c16b842ccb2dd5ac6326216)
+- [公租房续租条件入住之后哪些情况会被清退住房](https://github.com/annamooregithtb/nTybPh/commit/849d2a56a3b0ba349f79b21623f71a5c203b877f)
