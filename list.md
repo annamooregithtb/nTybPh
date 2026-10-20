@@ -31,3 +31,4 @@
 - [折叠屏手机渗透率持续提升折叠终端产业链成长机会梳理](https://github.com/annamooregithtb/nTybPh/commit/1ede10a47d7602c03de9277630d5ea4361c51fd6)
 - [批量hosts管理脚本，增删hosts记录导出导入hosts配置](https://github.com/annamooregithtb/nTybPh/commit/c2595d535963db01638baebdb5e9bc5489eef0a8)
 - [后量子密钥替换全链路，存量AI服务改造成本](https://github.com/annamooregithtb/nTybPh/commit/966fcf7bff2461d2b2dde5e9340f3853eafc418a)
+- [环保危废处置产能出清行业逐步摆脱低价恶性竞争](https://github.com/annamooregithtb/nTybPh/commit/429fa0964728694e46781fa5734d5d305348a36f)
