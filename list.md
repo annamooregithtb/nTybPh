@@ -149,3 +149,4 @@
 - [简单熔断降级 Demo 完整源码服务故障降级返回兜底数据](https://github.com/annamooregithtb/nTybPh/commit/bada8b66ba4a4a82be55dab6ff5ba249bfc61708)
 - [空天地海一体化网络，卫星‑地面网络协同故障](https://github.com/annamooregithtb/nTybPh/commit/76ee5217a4dd394bb6771488cdc36c2b198a9937)
 - [虚拟电厂热度高涨，落地难题远超想象](https://github.com/annamooregithtb/nTybPh/commit/245bca6010bd934121cc9061c56440be5552acfd)
+- [医药集采常态化，普通百姓买药价格变化](https://github.com/annamooregithtb/nTybPh/commit/d33bd0c042dd61b77c4d2e7b05b53b030a0c8738)
