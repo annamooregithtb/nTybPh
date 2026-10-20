@@ -144,3 +144,4 @@
 - [维护者 burnout，开源维护者身心耗竭现象](https://github.com/annamooregithtb/nTybPh/commit/63afde43488b507518723c1c7fb9ce9fcbbcae4a)
 - [音频采样率批量转换脚本，统一音频格式采样率](https://github.com/annamooregithtb/nTybPh/commit/b47a2a703e5a6a79a6c687a261df63fe0e6e1fcf)
 - [图片灰度滤镜源码 完整源码批量图片灰度处理](https://github.com/annamooregithtb/nTybPh/commit/2b856e02dfd49c66a2ead9e81fff7540dfe9e7d0)
+- [本地简单tcp代理日志版，带请求日志输出的tcp端口代理脚本](https://github.com/annamooregithtb/nTybPh/commit/e35f4b8800d5b61dec11b6da4e6e55f22483ac4d)
