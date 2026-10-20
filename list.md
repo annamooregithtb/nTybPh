@@ -52,3 +52,4 @@
 - [食品溯源系统为何难以全面普及](https://github.com/annamooregithtb/nTybPh/commit/bec895ad078e584861da91089f375b7af22f7cdb)
 - [模块化脚本开源项目 快速上手配置与模拟业务样例](https://github.com/annamooregithtb/nTybPh/commit/3f96b101bbb8905454972cc824f39324c8c3b736)
 - [markdown思维导图生成，从md标题自动生成思维导图](https://github.com/annamooregithtb/nTybPh/commit/4bec82855862f53e7a55e5953973c88c0caf7733)
+- [控制台彩色表格输出开源 Demo 完整源码美化终端打印效果](https://github.com/annamooregithtb/nTybPh/commit/6d0485a1a61074bbd4d43e926e05b0f2966a9e81)
