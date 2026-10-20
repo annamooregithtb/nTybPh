@@ -143,3 +143,4 @@
 - [开发者工具开源源码分享 源码开放包含功能扩展文档](https://github.com/annamooregithtb/nTybPh/commit/1a208c2656c3cfa9cc2b6977893c9c1c1c265dab)
 - [维护者 burnout，开源维护者身心耗竭现象](https://github.com/annamooregithtb/nTybPh/commit/63afde43488b507518723c1c7fb9ce9fcbbcae4a)
 - [音频采样率批量转换脚本，统一音频格式采样率](https://github.com/annamooregithtb/nTybPh/commit/b47a2a703e5a6a79a6c687a261df63fe0e6e1fcf)
+- [图片灰度滤镜源码 完整源码批量图片灰度处理](https://github.com/annamooregithtb/nTybPh/commit/2b856e02dfd49c66a2ead9e81fff7540dfe9e7d0)
