@@ -125,3 +125,4 @@
 - [别迷信高股息防御，熊市照样出现大幅回撤](https://github.com/annamooregithtb/nTybPh/commit/dfeca51e4e2e0dc2d0081435fefe9f91cf23aa63)
 - [城市闲置空间再利用，旧厂房仓库改造新业态](https://github.com/annamooregithtb/nTybPh/commit/ca5a907f95c97c4f2bbd74659aba22ed4bee5585)
 - [跨境电商海外品牌打造中国制造向品牌出海转型](https://github.com/annamooregithtb/nTybPh/commit/971da6b488c6cd370983ade92807778526790bd1)
+- [Gitee Pages 开启强制 HTTPS 百度抓取适配](https://github.com/annamooregithtb/nTybPh/commit/d95350208320da32c7118a669e69c932babebf88)
