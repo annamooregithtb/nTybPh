@@ -76,3 +76,4 @@
 - [简易消息推送开源 Demo 完整源码实现多渠道消息发送](https://github.com/annamooregithtb/nTybPh/commit/7f7e2d797bece0f60565daa94626af43ef3e0580)
 - [农村集体收益分红分配矛盾化解](https://github.com/annamooregithtb/nTybPh/commit/2561b9679c8e020a440c8fdabf90b4dfcd3f0f0b)
 - [地方附加税法公开征求意见，财税制度改革迎来新的调整](https://github.com/annamooregithtb/nTybPh/commit/8aad8942bdfb615d3faa84aa047a943b195c7189)
+- [社区生鲜模式迭代行业洗牌后探寻可持续盈利路径](https://github.com/annamooregithtb/nTybPh/commit/a1ec47e1222433c210b7642853b0175a25ddaea9)
