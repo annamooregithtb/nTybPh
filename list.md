@@ -180,3 +180,4 @@
 - [功能性护肤崛起国货美妆发力功效赛道抢占市场份额](https://github.com/annamooregithtb/nTybPh/commit/942839a2ea5d919e1094d9adf32bd9c55744d7ab)
 - [实战类开源文档增加亲身踩坑经历提权重](https://github.com/annamooregithtb/nTybPh/commit/546db0d29a7f297cc3cd21707e2bab4aa5b98436)
 - [互联网平台企业降本增效完成之后寻找第二增长曲线](https://github.com/annamooregithtb/nTybPh/commit/6dc014fcdf688140fad215b2a585ead74ba9a056)
+- [线程活锁模拟 Demo 完整源码活锁故障场景演示](https://github.com/annamooregithtb/nTybPh/commit/2f4b84ca8fe66b9659d6c29947e395389072d2d5)
