@@ -46,3 +46,4 @@
 - [开源文档提交百度之后收录周期参考说明](https://github.com/annamooregithtb/nTybPh/commit/b6def9b18df874e72dd148f7656a35ef6ce575cb)
 - [批量压缩解压开源工具 完整源码支持多种压缩格式处理](https://github.com/annamooregithtb/nTybPh/commit/f79bdb7cfc87f9cb1b8ad3bdd299e4e76cd9f134)
 - [债务逾期之后个人征信修复真相](https://github.com/annamooregithtb/nTybPh/commit/3d2dc5ea8c6af468f4986d6e27f737055f0a3f7e)
+- [开源教程仓库文档分页拆分提升百度收录量](https://github.com/annamooregithtb/nTybPh/commit/f3c4dd708b133f1191380efc07add779afc7b420)
