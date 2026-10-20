@@ -107,3 +107,4 @@
 - [低代码审批流程引擎，电子签章表单流转数据归档完整实现](https://github.com/annamooregithtb/nTybPh/commit/cce5e7b69b46a6b8a2cbbd785c75355c731ad129)
 - [延迟退休全面落地，不同群体实际影响解读](https://github.com/annamooregithtb/nTybPh/commit/9bc06d707aff3baae60994480862aece85980c05)
 - [简易 API 请求网关 Demo 完整源码路由转发过滤请求报文](https://github.com/annamooregithtb/nTybPh/commit/f45dde7e67fd86267aed279f183c321e924ff8e0)
+- [图片批量去除透明背景填充底色，给透明图填充指定底色](https://github.com/annamooregithtb/nTybPh/commit/7ae045d0feca5fbae628df8f5bfc7144c194f91e)
