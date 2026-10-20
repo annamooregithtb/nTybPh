@@ -138,3 +138,4 @@
 - [实验室设备预约系统，使用记录设备登记权限管理模块](https://github.com/annamooregithtb/nTybPh/commit/725f09c3a8d56e872024900303615277920d2214)
 - [开源实战开发源码分享 源码开放包含多场景落地参考手册](https://github.com/annamooregithtb/nTybPh/commit/0fb405dd5226b103965868f30c93b96b9bfe744f)
 - [网页批量转Markdown脚本，网页文档转换markdown](https://github.com/annamooregithtb/nTybPh/commit/fb33646d6c6a5740d15a3bddc400e93aeb5c67f8)
+- [分布式入门练习开源仓库 完整源码适合分布式基础学习](https://github.com/annamooregithtb/nTybPh/commit/773a1ccc5c2bcf44adfa2d6091aaac1eb561e2f7)
