@@ -6,3 +6,4 @@
 - [开源低代码项目，生成代码质量参差不齐](https://github.com/annamooregithtb/nTybPh/commit/7f69a21a9b53d5ac402e00fed9fa5911b51cc70b)
 - [生物序列大模型，RNA蛋白质工业落地壁垒](https://github.com/annamooregithtb/nTybPh/commit/360204a353dc1bc8017a53e7eaa84afb377c223a)
 - [github仓库license许可证批量识别，批量识别仓库开源许可证类型](https://github.com/annamooregithtb/nTybPh/commit/8ac44e4c7e4c96598eecbfda43ec549d22a52dcd)
+- [中小微企业经营状态，反映民间经济真实冷暖](https://github.com/annamooregithtb/nTybPh/commit/370e35f2bc5909204aa92eb3247cc08305fd6813)
