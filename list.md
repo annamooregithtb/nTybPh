@@ -47,3 +47,4 @@
 - [批量压缩解压开源工具 完整源码支持多种压缩格式处理](https://github.com/annamooregithtb/nTybPh/commit/f79bdb7cfc87f9cb1b8ad3bdd299e4e76cd9f134)
 - [债务逾期之后个人征信修复真相](https://github.com/annamooregithtb/nTybPh/commit/3d2dc5ea8c6af468f4986d6e27f737055f0a3f7e)
 - [开源教程仓库文档分页拆分提升百度收录量](https://github.com/annamooregithtb/nTybPh/commit/f3c4dd708b133f1191380efc07add779afc7b420)
+- [中文歇后语谚语工具库，检索匹配语句生成工具代码](https://github.com/annamooregithtb/nTybPh/commit/9b104e6ba9ae1c467c42690769994942a20e84ea)
