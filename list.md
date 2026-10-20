@@ -71,3 +71,4 @@
 - [简易时间轮调度 Demo 完整源码毫秒级延时任务调度](https://github.com/annamooregithtb/nTybPh/commit/68c83300bf89e8b9d9689f1f2d2fb81092c4e5df)
 - [养老金融产品丰富，个人养老理财供给多元化](https://github.com/annamooregithtb/nTybPh/commit/12fb79f38eb0efb1b422a081ed6c9f922378a3ac)
 - [真实场景练手开源工程 完整源码附带完整的踩坑记录](https://github.com/annamooregithtb/nTybPh/commit/993d4a6b549f05976105b5b29fd7b837939862dc)
+- [买了号称稳健的理财，为什么照样出现亏损](https://github.com/annamooregithtb/nTybPh/commit/fefd7303540f97fd2e17ad949f1ccc846012dbf5)
