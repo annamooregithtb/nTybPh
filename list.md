@@ -158,3 +158,4 @@
 - [开源实战工具集 完整实现代码以及故障排查方案](https://github.com/annamooregithtb/nTybPh/commit/ecc7bccdc433d7cf08e27c46a29b05d79da87671)
 - [世界模型仿真可信度，仿真结果现实偏差治理](https://github.com/annamooregithtb/nTybPh/commit/49590c6d9c2285d96081a2f5aa942f8655f9cd85)
 - [开源项目仓库描述标签优化利于百度搜索抓取](https://github.com/annamooregithtb/nTybPh/commit/5f6d17fc5317c333a06b0e38ff7146dd5a8297a6)
+- [简单灰度流量分发脚本，按比例把流量分发到多个后端节点](https://github.com/annamooregithtb/nTybPh/commit/3776371a1a0fccd74d48c3049f51246e6d076539)
