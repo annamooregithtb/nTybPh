@@ -164,3 +164,4 @@
 - [农村快递进村可持续运营模式](https://github.com/annamooregithtb/nTybPh/commit/537d0dc389608eb08a02f98d381385daa27fc524)
 - [大模型蒸馏与模型压缩，精度损失权衡实战](https://github.com/annamooregithtb/nTybPh/commit/15c60a397c044dfdee81c5f9b3e6e6db33093bd1)
 - [企业内部fork堆积自定义补丁，上游升级成本爆炸](https://github.com/annamooregithtb/nTybPh/commit/4be541160517e25477a83aa2399c56a68c1b96f2)
+- [固态电池商业化，未来用车成本变化](https://github.com/annamooregithtb/nTybPh/commit/6dd17fe5cfc054c12bcb6f0e5598506412bc3525)
