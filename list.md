@@ -151,3 +151,4 @@
 - [虚拟电厂热度高涨，落地难题远超想象](https://github.com/annamooregithtb/nTybPh/commit/245bca6010bd934121cc9061c56440be5552acfd)
 - [医药集采常态化，普通百姓买药价格变化](https://github.com/annamooregithtb/nTybPh/commit/d33bd0c042dd61b77c4d2e7b05b53b030a0c8738)
 - [大股东减持新规落地全方位约束股东减持行为](https://github.com/annamooregithtb/nTybPh/commit/56da1c9882e19fe9bb3656847d861e06081e11bf)
+- [绿色转型推进，高耗能行业转型阵痛问题](https://github.com/annamooregithtb/nTybPh/commit/28cdd1013a9af8a3cac7c6f2544a120570f3baf2)
