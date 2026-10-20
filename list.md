@@ -139,3 +139,4 @@
 - [开源实战开发源码分享 源码开放包含多场景落地参考手册](https://github.com/annamooregithtb/nTybPh/commit/0fb405dd5226b103965868f30c93b96b9bfe744f)
 - [网页批量转Markdown脚本，网页文档转换markdown](https://github.com/annamooregithtb/nTybPh/commit/fb33646d6c6a5740d15a3bddc400e93aeb5c67f8)
 - [分布式入门练习开源仓库 完整源码适合分布式基础学习](https://github.com/annamooregithtb/nTybPh/commit/773a1ccc5c2bcf44adfa2d6091aaac1eb561e2f7)
+- [GitHub 实战开发开源项目 可运行源码与参数调优指南](https://github.com/annamooregithtb/nTybPh/commit/5982ec584f1c2355fa0817f380e922ff9f22fddf)
