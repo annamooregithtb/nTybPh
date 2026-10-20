@@ -37,3 +37,4 @@
 - [可观测性体系建设，日志、指标、链路追踪一体化](https://github.com/annamooregithtb/nTybPh/commit/eaec4edba9e3cdb5fbc1f66da3eeefbaf55fa978)
 - [利息越来越低，老百姓宁愿存钱也不投资](https://github.com/annamooregithtb/nTybPh/commit/c475c98403baf522c68699d907a17b01b220b10c)
 - [反诈骗AI语音诈骗新套路识别要点](https://github.com/annamooregithtb/nTybPh/commit/20acb40d30c726f3939133a39feb2a75a3671008)
+- [开源踩坑合集文档 GitHub 发布搜索流量思路](https://github.com/annamooregithtb/nTybPh/commit/72c2b2ac9f4903b36e0ddc7bf91b938429eb9c8d)
