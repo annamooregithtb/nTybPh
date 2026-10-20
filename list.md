@@ -195,3 +195,4 @@
 - [简易爬虫练习开源仓库 完整源码附带反爬处理参考方案](https://github.com/annamooregithtb/nTybPh/commit/833a81c54cdd7cc9538ebafdff0e39601dd42f0f)
 - [新业态劳动者职工医保参保激励](https://github.com/annamooregithtb/nTybPh/commit/bef176ba0917c6880cddbe8e92733b4ddc4c02ec)
 - [静态博客源码 GitHub 托管镜像部署踩坑汇总](https://github.com/annamooregithtb/nTybPh/commit/d3911e22520d327117801d6a666b83e911fe9cca)
+- [usb设备流量监控脚本，监控usb设备读写流量统计报表](https://github.com/annamooregithtb/nTybPh/commit/232681c26552b4dd6ac099172b949888f231bc08)
