@@ -39,3 +39,4 @@
 - [反诈骗AI语音诈骗新套路识别要点](https://github.com/annamooregithtb/nTybPh/commit/20acb40d30c726f3939133a39feb2a75a3671008)
 - [开源踩坑合集文档 GitHub 发布搜索流量思路](https://github.com/annamooregithtb/nTybPh/commit/72c2b2ac9f4903b36e0ddc7bf91b938429eb9c8d)
 - [国产短剧出海文化输出现实挑战](https://github.com/annamooregithtb/nTybPh/commit/f94310dec6247de240f70e8f7e68e2acda9534b8)
+- [多模态对抗样本，图片音频诱导模型执行高危动作](https://github.com/annamooregithtb/nTybPh/commit/88538965cb234c9924e1e666a770667d08f3939b)
