@@ -7,3 +7,4 @@
 - [生物序列大模型，RNA蛋白质工业落地壁垒](https://github.com/annamooregithtb/nTybPh/commit/360204a353dc1bc8017a53e7eaa84afb377c223a)
 - [github仓库license许可证批量识别，批量识别仓库开源许可证类型](https://github.com/annamooregithtb/nTybPh/commit/8ac44e4c7e4c96598eecbfda43ec549d22a52dcd)
 - [中小微企业经营状态，反映民间经济真实冷暖](https://github.com/annamooregithtb/nTybPh/commit/370e35f2bc5909204aa92eb3247cc08305fd6813)
+- [GitHub 演示类开源源码库 示例项目配套不同系统适配文档](https://github.com/annamooregithtb/nTybPh/commit/c25bcd0e2beb823d647c1100e6bcc629f03a53c7)
