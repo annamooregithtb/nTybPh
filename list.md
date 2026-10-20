@@ -94,3 +94,4 @@
 - [南美东南亚新兴市场国内出口企业布局新蓝海市场](https://github.com/annamooregithtb/nTybPh/commit/86ba2f6774186b05a2283bc2a07733d1b8ba3f6a)
 - [产业转移过程中，转出地与承接地利益如何协调](https://github.com/annamooregithtb/nTybPh/commit/354a18ebf1c5c0893bed2ec3a4f2e1dc2f8e6512)
 - [机构抱团疯狂拉升，瓦解之后散户来兜底](https://github.com/annamooregithtb/nTybPh/commit/7cad671b219b01b70cd305851b83bc18833b609c)
+- [智慧社区算法治理，小区人脸识别隐私争议](https://github.com/annamooregithtb/nTybPh/commit/423ceda68c9334421730682a1f423bd179ecb00b)
