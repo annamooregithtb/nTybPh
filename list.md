@@ -141,3 +141,4 @@
 - [分布式入门练习开源仓库 完整源码适合分布式基础学习](https://github.com/annamooregithtb/nTybPh/commit/773a1ccc5c2bcf44adfa2d6091aaac1eb561e2f7)
 - [GitHub 实战开发开源项目 可运行源码与参数调优指南](https://github.com/annamooregithtb/nTybPh/commit/5982ec584f1c2355fa0817f380e922ff9f22fddf)
 - [开发者工具开源源码分享 源码开放包含功能扩展文档](https://github.com/annamooregithtb/nTybPh/commit/1a208c2656c3cfa9cc2b6977893c9c1c1c265dab)
+- [维护者 burnout，开源维护者身心耗竭现象](https://github.com/annamooregithtb/nTybPh/commit/63afde43488b507518723c1c7fb9ce9fcbbcae4a)
