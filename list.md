@@ -20,3 +20,4 @@
 - [开源提示词仓库泛滥，提示词版权归属争议](https://github.com/annamooregithtb/nTybPh/commit/830ce774e34a9855d599d91495e4913f6f9468a8)
 - [绿色殡葬推广传统观念冲突化解](https://github.com/annamooregithtb/nTybPh/commit/fec623a017c7e8c8862b835d0c2ad572c6700346)
 - [Demo项目直接上生产，缺少异常处理](https://github.com/annamooregithtb/nTybPh/commit/1145a66968ed30a8e98f1c5b4d742d78f6739b6f)
+- [git lfs文件批量统计，统计仓库内lfs存储文件大小](https://github.com/annamooregithtb/nTybPh/commit/20fbed941b5c3491749185068ef4192ba4f1c1c0)
