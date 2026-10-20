@@ -97,3 +97,4 @@
 - [智慧社区算法治理，小区人脸识别隐私争议](https://github.com/annamooregithtb/nTybPh/commit/423ceda68c9334421730682a1f423bd179ecb00b)
 - [小盘股估值回归理性题材炒作退潮之后价值投资重新回归](https://github.com/annamooregithtb/nTybPh/commit/3a3d2fabfcdd0af001f6af9d81715bce6b116293)
 - [kafka批量查找无效offset，批量查找topic无效越界offset值](https://github.com/annamooregithtb/nTybPh/commit/6afa7435527b21a681da3c877413f366827a3993)
+- [图片压缩裁剪开源 Demo 完整源码实现图片缩放裁剪处理](https://github.com/annamooregithtb/nTybPh/commit/0438c7e73489b37df0a8487cc84a73cf3871af73)
