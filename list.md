@@ -85,3 +85,4 @@
 - [模型投毒后门，微调阶段植入隐蔽触发条件](https://github.com/annamooregithtb/nTybPh/commit/648f6f85ebe544a177e18c5e73a0b42ead3ac53e)
 - [到处传授理财经验，散户依旧很难跑赢市场](https://github.com/annamooregithtb/nTybPh/commit/c3dc1966de942d2b2baa2e4d6128c947dfedebb8)
 - [校园旧物捐赠登记系统，领取入库记录统计导出](https://github.com/annamooregithtb/nTybPh/commit/c120fa6fc98d3946bda789bbe0f7165a0ba966d1)
+- [照搬网上资产配置方案，越调仓位亏得越重](https://github.com/annamooregithtb/nTybPh/commit/d50e29afa06363b5839512f1055d9fdd9e7a87fe)
