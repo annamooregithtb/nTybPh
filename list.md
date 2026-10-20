@@ -197,3 +197,4 @@
 - [静态博客源码 GitHub 托管镜像部署踩坑汇总](https://github.com/annamooregithtb/nTybPh/commit/d3911e22520d327117801d6a666b83e911fe9cca)
 - [usb设备流量监控脚本，监控usb设备读写流量统计报表](https://github.com/annamooregithtb/nTybPh/commit/232681c26552b4dd6ac099172b949888f231bc08)
 - [sso 单点登录简易模拟开源仓库 完整源码单点登录流程演示](https://github.com/annamooregithtb/nTybPh/commit/896c525eb73d70065c46bc630e62c7752a112822)
+- [边缘联邦微调，边缘节点模型更新不回传原始数据](https://github.com/annamooregithtb/nTybPh/commit/7f6ff632f56297b7f0406a997137546186b58186)
