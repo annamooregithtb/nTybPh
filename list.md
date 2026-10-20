@@ -91,3 +91,4 @@
 - [公交地铁适老化改造落地情况](https://github.com/annamooregithtb/nTybPh/commit/adb4529ea615ded9af7b9bd86fae8dd4b11442da)
 - [Stale‑bot自动关闭Issue，用户问题没有解决](https://github.com/annamooregithtb/nTybPh/commit/aae79355ae43139b1a62181f1231a30933cdc0f7)
 - [极简生活流行现实落地存在哪些阻碍](https://github.com/annamooregithtb/nTybPh/commit/2a38a4e95ca521c82b85c40ae66f74f63a6bcd45)
+- [南美东南亚新兴市场国内出口企业布局新蓝海市场](https://github.com/annamooregithtb/nTybPh/commit/86ba2f6774186b05a2283bc2a07733d1b8ba3f6a)
