@@ -78,3 +78,4 @@
 - [地方附加税法公开征求意见，财税制度改革迎来新的调整](https://github.com/annamooregithtb/nTybPh/commit/8aad8942bdfb615d3faa84aa047a943b195c7189)
 - [社区生鲜模式迭代行业洗牌后探寻可持续盈利路径](https://github.com/annamooregithtb/nTybPh/commit/a1ec47e1222433c210b7642853b0175a25ddaea9)
 - [多Agent协作冲突，角色分工与任务抢占问题](https://github.com/annamooregithtb/nTybPh/commit/f91bbfc9056a6c09a0b2d9e847d47d7c153db61f)
+- [图片图片颜色阈值处理，批量图片二值化阈值调整](https://github.com/annamooregithtb/nTybPh/commit/42d9e78a87b0f23d6fecd56cdfe73081a78473a0)
