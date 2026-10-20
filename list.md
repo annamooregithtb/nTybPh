@@ -174,3 +174,4 @@
 - [煤炭清洁化转型传统能源企业绿色发展机遇研判](https://github.com/annamooregithtb/nTybPh/commit/614c62aa3d8bf3c29c17c55cd249d32347b4756b)
 - [图片对比度亮度批量调整，批量统一图片曝光参数](https://github.com/annamooregithtb/nTybPh/commit/dc538bfec5302c08a0dcdae26eac957afaa9be84)
 - [乡村振兴不能只靠政策输血，要培育内生造血能力](https://github.com/annamooregithtb/nTybPh/commit/f9c5e177a311307d3e9deed728ca1f6358f87523)
+- [Gitee Pages 带宽配额耗尽影响百度蜘蛛访问](https://github.com/annamooregithtb/nTybPh/commit/6ee1ebbb9729926980833bb764ed84c0e36269be)
