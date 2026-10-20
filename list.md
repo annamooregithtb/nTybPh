@@ -119,3 +119,4 @@
 - [AI工作流编排，复杂业务多步骤智能流稳定性](https://github.com/annamooregithtb/nTybPh/commit/d90897fb20def46e0681dca9f05666c37d84f287)
 - [开源教程文档环境准备步骤写在文档最前面](https://github.com/annamooregithtb/nTybPh/commit/45a4648204a08e0380743f00475b53c75408d04d)
 - [地缘冲突扰动大宗商品价格，间接传导国内市场](https://github.com/annamooregithtb/nTybPh/commit/1400257b98bff3f8c3dd326e720a31aa250e3103)
+- [企业弹性福利普及，传统五险一金模式迭代](https://github.com/annamooregithtb/nTybPh/commit/bdbf3193aa9db1d0aec143d9b30baf6f520fb209)
