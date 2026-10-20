@@ -123,3 +123,4 @@
 - [图片隐写水印工具，文字图片信息隐藏嵌入提取本地实现](https://github.com/annamooregithtb/nTybPh/commit/e4bf6dc803d50c72d9aea69e9121864d90449d3c)
 - [实时数字人直播唇形表情同步，高并发调优](https://github.com/annamooregithtb/nTybPh/commit/7b370eca35c29cf6cfd7563e944e7ea898d7e89b)
 - [别迷信高股息防御，熊市照样出现大幅回撤](https://github.com/annamooregithtb/nTybPh/commit/dfeca51e4e2e0dc2d0081435fefe9f91cf23aa63)
+- [城市闲置空间再利用，旧厂房仓库改造新业态](https://github.com/annamooregithtb/nTybPh/commit/ca5a907f95c97c4f2bbd74659aba22ed4bee5585)
